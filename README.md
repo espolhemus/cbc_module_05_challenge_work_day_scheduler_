@@ -12,7 +12,7 @@ Not applicable.
 
 The result of this submission is an HTML page deployed via GitHub Pages, with the underlying code being uploaded within this repository.
 
-The HTML page can be found at: [https://espolhemus.github.io/cbc_module_05_challenge_work_day_scheduler_/]
+The HTML page can be found at: https://espolhemus.github.io/cbc_module_05_challenge_work_day_scheduler_/
 
 An image of the completed HTML page is as follows:
 
@@ -24,7 +24,7 @@ An image of the contents of the respository is as follows:
 
 ## Credits
 
-As mentiond, starter code was provided, and the Xpert Learning Assistant was utilized to assist with this project.
+As mentioned, starter code was provided, and the Xpert Learning Assistant was utilized to assist with this project.
 
 ## License
 
